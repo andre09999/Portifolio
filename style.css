@@ -29,3 +29,13 @@ a{
 li{
     text-align: center;
 }
+ol{
+    width: 320px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+strong{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
